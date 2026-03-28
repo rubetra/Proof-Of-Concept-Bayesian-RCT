@@ -2,7 +2,7 @@
 
 > Course project: Foundations of Bayesian Methodology (Spring 2024) · University of Zurich · Malgorzata Roos, PD Dr.
 
-Reproduction and extension of the Bayesian analysis from Baeten et al. (2013), a proof-of-concept RCT evaluating Secukinumab (anti-IL-17A) versus placebo in ankylosing spondylitis. Covers the full analysis pipeline: hierarchical MCMC meta-analysis for placebo prior elicitation, Beta-Binomial conjugate model, simulation-based sample size determination under a 4:1 allocation ratio, and Posterior Probability of Superiority computation (PPS).
+Reproduction and extension of the Bayesian analysis from Baeten et al. (2013), a proof-of-concept RCT evaluating Secukinumab (anti-IL-17A) versus placebo in ankylosing spondylitis.
 
 
 
