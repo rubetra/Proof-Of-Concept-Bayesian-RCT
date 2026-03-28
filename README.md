@@ -1,5 +1,7 @@
 # Bayesian Proof-of-Concept Trial Design
 
+> Course project: Foundations of Bayesian Methodology (Spring 2024) · University of Zurich · Malgorzata Roos, PD Dr.
+
 Bayesian analysis of a Phase 2 clinical trial evaluating the efficacy of 
 Secukinumab (anti-IL-17A) versus placebo in patients with ankylosing spondylitis.
 
@@ -27,8 +29,3 @@ the threshold, providing strong evidence that Secukinumab is superior to placebo
 ## Tools
 
 - R, JAGS, rjags, coda
-
-## Files
-
-- `06worksheet_Haldemann_Sophie.Rmd` — full analysis source code
-- `06worksheet_Haldemann_Sophie.pdf` — rendered report
