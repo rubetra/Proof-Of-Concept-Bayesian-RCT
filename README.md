@@ -2,8 +2,9 @@
 
 > Course project: Foundations of Bayesian Methodology (Spring 2024) · University of Zurich · Malgorzata Roos, PD Dr.
 
-Bayesian analysis of a Phase 2 clinical trial evaluating the efficacy of 
-Secukinumab (anti-IL-17A) versus placebo in patients with ankylosing spondylitis.
+Reproduction and extension of the Bayesian analysis from Baeten et al. (2013), a proof-of-concept RCT evaluating Secukinumab (anti-IL-17A) versus placebo in ankylosing spondylitis. Covers the full analysis pipeline: hierarchical MCMC meta-analysis for placebo prior elicitation, Beta-Binomial conjugate model, simulation-based sample size determination under a 4:1 allocation ratio, and Posterior Probability of Superiority computation (PPS).
+
+
 
 ## Overview
 
@@ -29,3 +30,11 @@ the threshold, providing strong evidence that Secukinumab is superior to placebo
 ## Tools
 
 - R, JAGS, rjags, coda
+
+## Reference
+
+Baeten, D., X. Baraliakos, J. Braun, J. Sieper, P. Emery, D. van der Heijde, I. McInnes, J. van Laar,
+R. Landewé, P. Wordsworth, J. Wollenhaupt, H. Kellner, J. Paramarta, J. Wei, A. Brachat, S. Bek,
+D. Laurent, Y. Li, Y. Wang, A. Bertolino, S. Gsteiger, A. Wright, and W. Hueber (2013). Anti-
+interleukin-17A monoclonal antibody secukinumab in treatment of ankylosing spondylitis: a
+randomised, double-blind, placebo-controlled trial. The Lancet 382, 1705–1713.
